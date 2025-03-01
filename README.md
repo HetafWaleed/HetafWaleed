@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning about Unity
 - 💞️ I’m looking to collaborate on scripts
 - 📫 How to reach me hetafdhahri@gmail.com
-- ⚡ Fun fact: I love cats and I HATE pizza
+- ⚡ Fun fact: I love cats
